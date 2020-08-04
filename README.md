@@ -26,3 +26,9 @@
 <a href="https://www.twitter.com/burakirenn/"><img alt="Instagram" src="http://img.shields.io/badge/Twitter-burakirenn-blue?style=flat-square&logo=Twitter"></a>
 <a href="mailto:burakiren54@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-burakiren54@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/burakirenn/count.svg" />
+</p>
+
