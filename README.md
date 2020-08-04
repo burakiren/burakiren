@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 💼 &nbsp; Working as a Mobile Development at Huawei Technologies.
+- 💼 &nbsp; Working as a Android Developer at Huawei Technologies.
 - 🌱 &nbsp; Learning more about Clean Architecture, Systems Design and Artificial Intelligence.
 - ✍️ &nbsp; Pursuing Android Development and Blog Writing as hobbies/side hustles.
 
@@ -11,7 +11,7 @@
 
 - 💻 &nbsp; Kotlin | Java | Unity | C++
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node.js | ReactJS
-- 🛢 &nbsp; DynamoDB | MongoDB
+- 🛢 &nbsp; DynamoDB | MongoDB | SqLite
 - 🔧 &nbsp; Git 
 - 🖥 &nbsp; Photoshop
 
